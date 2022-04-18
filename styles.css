@@ -142,7 +142,7 @@ p {
 
 /* Media Section */
 @media (max-width:1120px) {
-  #title {
+  #title .container-fluid {
     text-align: center;
   }
 
